@@ -2,3 +2,6 @@
     return $('p');
   }
   
+  function lastImageSelector(){
+    $('img:last')
+  }
